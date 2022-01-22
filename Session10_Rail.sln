@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoWeb", "DemoWeb\DemoWeb.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoConsole", "D:\class\CSharpMovies\Session8\Session8\Session8\Part6\DemoConsole.csproj", "{D675790B-E099-4D9C-AB4D-E77C2CA5E34A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleDemo", "ConsoleDemo\ConsoleDemo.csproj", "{B268A533-022A-4D4D-BA3F-CE8F7109B32D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D675790B-E099-4D9C-AB4D-E77C2CA5E34A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D675790B-E099-4D9C-AB4D-E77C2CA5E34A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D675790B-E099-4D9C-AB4D-E77C2CA5E34A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B268A533-022A-4D4D-BA3F-CE8F7109B32D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B268A533-022A-4D4D-BA3F-CE8F7109B32D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B268A533-022A-4D4D-BA3F-CE8F7109B32D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B268A533-022A-4D4D-BA3F-CE8F7109B32D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
